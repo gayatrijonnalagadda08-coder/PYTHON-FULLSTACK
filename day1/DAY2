@@ -1,0 +1,12 @@
+<html>
+   <head>
+    <body>
+        <h1 align = "center">Image</h1>
+        <hr>
+        <img>
+        src="day2.jpg"
+        alt="error"
+        width="350"
+        height=""
+    </body>
+</html>

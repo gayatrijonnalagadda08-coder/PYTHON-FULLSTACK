@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+div.section1 {
+    background-color: blueviolet;
+    color: brown;
+div.section2 {
+    background-color: rgb(165, 42, 138);
+    color: rgb(10, 137, 248);
+}
+}
+.section1 h1 {
+    text-align: center;
+    background-color: blue;
+    color: black;
+}
+.section2  h1 {
+    text-align: center;
+    background-color: rgb(103, 23, 252);
+    color: rgb(255, 0, 0);
+}
